@@ -1,6 +1,6 @@
 # main links
 main:
-  - title: "이강산"
+  - title: "Theme Documentation"
     url: https://perstarke-webdev.de/oneflow-jekyll-theme
     blank: true
     description: "The documentation for this theme, on https://perstarke-webdev.de"
